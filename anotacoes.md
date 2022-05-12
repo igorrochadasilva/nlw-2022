@@ -255,3 +255,7 @@ ex: .button{ @apply: bg-violet-500}
 **Deploy no Railway**
 - Utilizando o Railway que é semelhante a vercel, porem com plano gratuito.
 - Criando DB Postgresql automatico com o railway
+- Configurando comandos de start do server.
+- Configurando variaveis de ambiete.
+- A cada novo código inserido no repositorio, já feito o deploy automatico do lado da Vercel e Rail
+
