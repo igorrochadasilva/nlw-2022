@@ -248,7 +248,10 @@ ex: .button{ @apply: bg-violet-500}
 - Instalar o postgresql na maquina, para utilizar um unico banco de dados tanto no ambiente de dev como em prod
 
 **Configurando**
+- Configurando tsconfig para gerar dist e arquivos que iremos deploia para o backend
 
 **Subindo no github**
 
 **Deploy no Railway**
+- Utilizando o Railway que é semelhante a vercel, porem com plano gratuito.
+- Criando DB Postgresql automatico com o railway
