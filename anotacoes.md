@@ -230,18 +230,22 @@ ex: .button{ @apply: bg-violet-500}
 - Enviando dados.
 
 *Loading no botão de Enviar*
-- Configurando variaveis ambiente
-- vite env variables
+- adicionando loading em botão de enviar feedback
 
 *Deploy do front-end*
 
 **Configurando**
+- Configurando variaveis ambiente
+- vite env variables
 
 **Subindo no github**
+- Subindo para o github
 
 **Deploy na Vercel**
+- Criando projeto na vercel, e utilizando o vite framework
 
 *Deploy no Backend*
+- Instalar o postgresql na maquina, para utilizar um unico banco de dados tanto no ambiente de dev como em prod
 
 **Configurando**
 
